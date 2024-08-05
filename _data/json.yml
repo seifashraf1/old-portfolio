@@ -11,28 +11,17 @@
   url: /cv.pdf
 - key: Address
   value:
-    - University of Jekyll
-    - Department of Themes
-    - 123 Main St, Anytown, USA
+    - Polytechnique Montréal
+    - Department of Computer Engineering
+    - 2500 Chemin de Polytechnique, Montréal, QC
 - key: Contact
   value:
-    - key: Office
-      value: Foobar Hall 1.23
-    - key: Phone
-      value: +1 234 567 890
     - key: Email
-      value: username@domain.com
-      url: "mailto:username@domain.com"
-- key: Source
-  value: piazzai/hacked-jekyll
-  url: https://github.com/piazzai/hacked-jekyll
+      value: seifashraf145@gmail.com
+      url: "mailto:seifashraf145@gmail.com"
 - key: Profiles
   value:
-    - value: Instagram
-      url: https://www.instagram.com
     - value: LinkedIn
-      url: https://www.linkedin.com
-    - value: StackOverflow
-      url: https://stackoverflow.com
+      url: https://www.linkedin.com/in/seifashraf
     - value: GitHub
-      url: https://github.com
+      url: https://github.com/seifashraf1
