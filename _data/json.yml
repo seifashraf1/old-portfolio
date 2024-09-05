@@ -25,3 +25,11 @@
       url: https://www.linkedin.com/in/seifashraf
     - value: GitHub
       url: https://github.com/seifashraf1
+- key: Writings
+  value:
+    - value: Blog
+      url: /blog.html
+    - value: Research Papers Notes
+      url: /research.html
+    - value: Random Thoughts
+      url: /thoughts.html
